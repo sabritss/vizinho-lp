@@ -1,4 +1,4 @@
-const logo '/img/logo.png';
+const logo = '/img/logo.png';
 
 export function Footer() {
   return (
