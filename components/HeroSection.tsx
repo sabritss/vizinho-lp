@@ -1,7 +1,7 @@
 import { Button } from "./ui/button";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { Apple, Play, Star, Users, Shield } from "lucide-react";
-import logo from 'figma:asset/a197a8cf338010d7241f971d69857d1a4ea2030b.png';
+import logo from '/img/logo.png';
 
 export function HeroSection() {
   return (
