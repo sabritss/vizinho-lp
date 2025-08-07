@@ -1,5 +1,5 @@
 // Importa o arquivo CSS global para aplicar os estilos do projeto.
-import "./styles/globals.css";
+import "../styles/globals.css";
 
 import { Navigation } from "./components/Navigation";
 import { HeroSection } from "./components/HeroSection";
